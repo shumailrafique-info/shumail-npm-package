@@ -1,1 +1,1 @@
-# @shumail/\* package
+# @shumail package
